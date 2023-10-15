@@ -10,4 +10,4 @@ This Python project demonstrates basic operations using the NumPy library for ar
 5. Run the program using a Python interpreter. The program will execute and display various NumPy operations.
 
 ## Acknowledgments
-This program was created as part of the Python for Everyone course offered by the National Emerging Skills Program (NESP).
+This program was created as part of the AI, DS and ML Course  course offered by the National Emerging Skills Program (NESP).
